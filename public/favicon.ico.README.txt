@@ -1,0 +1,2 @@
+<!-- Replace this with your own favicon or remove if you don't want any favicon -->
+<link rel="icon" type="image/png" href="/ai-button.png" />
